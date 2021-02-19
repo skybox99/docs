@@ -94,8 +94,8 @@ Read more about [peripherals](Supported-Peripherals.md).
 | 68       | 992      | BkLight         | Backlight (Display)                                                                        |
 | 69       | 1696     | PMS5003         | PMS5003 Air Quality Sensor                                                                 |
 | 70       | 1760     | SDS0X1 Rx       | Nova Fitness SDS011 Laser Dust Sensor Rx pin                                               |
-| 71       | 1792     | SerBr Rx        | Serial Bridge Receive                                                                      |
-| 72       | 1824     | SerBr Tx        | Serial Bridge Transmit                                                                     |
+| 71       | 1792     | SerBr Tx        | Serial Bridge Transmit                                                                      |
+| 72       | 1824     | SerBr Rx        | Serial Bridge Receive                                                                     |
 | 73       | 1856     | SR04 Tri        | Ultrasonic Sensor HC-SR04 Trigger pin                                                      |
 | 74       | 1888     | SR04 Ech        | Ultrasonic Sensor HC-SR04 Echo pin                                                         |
 | 75       | 1920     | SDMx20 Tx       | SDMx20-Modbus Multifunction Power Analyser Tx pin                                          |
